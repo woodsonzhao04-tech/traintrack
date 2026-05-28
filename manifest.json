@@ -1,0 +1,9 @@
+{
+  "name": "TrainTrack",
+  "short_name": "TrainTrack",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0F0F0F",
+  "theme_color": "#FF6B35",
+  "icons": []
+}
